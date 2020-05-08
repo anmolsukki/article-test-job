@@ -1,0 +1,188 @@
+@media (min-width:320px) and (max-width:480px) {
+    .page-content .main-content .top-bar {
+        width: calc(100% - 50px);
+        float: left;
+        padding: 0 15px;
+    }
+    
+    .page-content .sidebar-menu {
+        width: 50px;
+    }
+    
+    .page-content .sidebar-menu .logo {
+        width: 49px;
+    }
+    
+    .page-content .main-content {
+        width: calc(100% - 50px);
+        float: right;
+        position: relative;
+        padding-top: 80px;
+    }    
+    
+    .page-content .main-content .top-bar .left-action ul li .searching-bar .form-control {
+        border: 0;
+        font-size: 12px;
+        color: #989898;
+        min-width: 135px;
+    }    
+
+    .page-panel {
+        width: 100%;
+        float: left;
+        position: relative;
+        padding: 40px 20px;
+    }   
+
+    .top-actions .top-right-action {
+        float: left;
+        position: relative;
+    }
+
+    .page-content .main-content .top-bar .right-action {
+        padding: 22px 0;
+    }
+
+    .page-content .main-content .top-bar .right-action .user-dropdown .user-pic {
+        width: 36px;
+        height: 36px;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .detail-card .card .card-b {
+        padding: 15px;
+        margin-bottom: 10px;
+    }
+
+    .history .card-panel .card-bx {
+        width: 100%;
+        float: left;
+        padding: 15px;
+    }
+
+    .history .card-panel .card-bx .user-details .user-img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .history .card-panel .card-bx .user-details {
+        padding-left: 60px;
+        margin-bottom: px;
+    }
+    
+    .history .card-panel .card-bx .user-details .user-name {
+        font-size: 16px;
+    }
+
+    .history .card-panel .card-bx .user-content .user-heading {
+        font-size: 14px;
+    }
+
+    .history .card-panel .card-bx .user-content .user-subcontent {
+        font-size: 13px;
+    }
+    
+    .detail-card .card .card-b .title .right-drop .dropdown-menu {
+        right: -101px;
+    } 
+
+    .detail-card .card .card-b .title .right-drop .dropdown-menu:before {
+        left: 87%;
+    }
+}
+
+@media (min-width:481px) and (max-width:575px) {
+    .page-content .main-content .top-bar {
+        width: calc(100% - 50px);
+        float: left;
+        padding: 0 15px;
+    }
+
+    .page-content .sidebar-menu {
+        width: 50px;
+    }
+    
+    .page-content .sidebar-menu .logo {
+        width: 49px;
+    }
+
+    .page-content .main-content {
+        width: calc(100% - 50px);
+        float: right;
+        position: relative;
+        padding-top: 80px;
+    }
+
+    .page-content .main-content .top-bar .left-action ul li .searching-bar .form-control {
+        border: 0;
+        font-size: 12px;
+        color: #989898;
+        min-width: 135px;
+    }
+
+    .page-content .main-content .top-bar .right-action {
+        padding: 22px 0;
+    }
+
+    .page-panel {
+        width: 100%;
+        float: left;
+        position: relative;
+        padding: 40px 20px;
+    }
+
+    .page-content .main-content .top-bar .right-action .user-dropdown .user-pic {
+        width: 36px;
+        height: 36px;
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .detail-card .card .card-b {
+        padding: 15px;
+        margin-bottom: 10px;
+    }
+
+    .history .card-panel .card-bx {
+        width: 100%;
+        float: left;
+        padding: 15px;
+    }
+
+    .history .card-panel .card-bx .user-details .user-img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .history .card-panel .card-bx .user-details {
+        padding-left: 60px;
+        margin-bottom: px;
+    }
+
+    .history .card-panel .card-bx .user-details .user-name {
+        font-size: 16px;
+    }
+
+    .history .card-panel .card-bx .user-content .user-heading {
+        font-size: 14px;
+    }
+
+    .history .card-panel .card-bx .user-content .user-subcontent {
+        font-size: 13px;
+    }
+    
+    .detail-card .card .card-b .title .right-drop .dropdown-menu {
+        right: -101px;
+    }
+  
+    .detail-card .card .card-b .title .right-drop .dropdown-menu:before {
+        left: 87%;
+    }    
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .detail-card .card .card-b .title .right-drop .dropdown-menu:before {
+        left: 87%;
+    }
+}
